@@ -1,3 +1,5 @@
+# [](https://gitverse.ru/stepagusev/study_2025-2026_os-intro/compare/v1.0.3...v) (2026-03-07)
+
 #  (2026-03-07)
 
 
