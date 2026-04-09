@@ -1,3 +1,5 @@
+## [1.0.11](github.com/stepagusev/study_2025-2026_os-intro/compare/v1.0.10...v1.0.11) (2026-04-09)
+
 <<<<<<< HEAD
 =======
 ## [1.0.10](github.com/stepagusev/study_2025-2026_os-intro/compare/v1.0.9...v1.0.10) (2026-04-09)
