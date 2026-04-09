@@ -1,3 +1,5 @@
+## [1.0.19](github.com/stepagusev/study_2025-2026_os-intro/compare/v1.0.18...v1.0.19) (2026-04-09)
+
 ## [1.0.18](github.com/stepagusev/study_2025-2026_os-intro/compare/v1.0.17...v1.0.18) (2026-04-09)
 
 ## [1.0.17](github.com/stepagusev/study_2025-2026_os-intro/compare/v1.0.16...v1.0.17) (2026-04-09)
